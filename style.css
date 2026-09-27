@@ -713,7 +713,7 @@ ul {
     justify-content: center;
     gap: 4px;
     color: var(--text-secondary);
-    background: linear-gradient(135deg, var(--bg-secondary), var(--bg-card));
+    background-image: ecommerceimage.jpg;
 }
 
 .project-image-placeholder i {
